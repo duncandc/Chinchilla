@@ -5,7 +5,7 @@ import custom_utilities as cu
 
 
 def main():
-    filepath = cu.get_data_path()+'Chinchilla/halo_catalogues'
+    filepath = cu.get_data_path()+'Chinchilla/halo_catalogues/'
     catalogue = 'hlist_1.00000.list'
 
     column_info = ([
